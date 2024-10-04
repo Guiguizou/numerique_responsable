@@ -1,0 +1,5 @@
+sun.invoke.util.Wrapper.isNumeric,0.2521
+java.lang.ref.Reference.waitForReferencePendingList,0.0026
+java.util.LinkedList.add,0.2521
+java.lang.Integer.getChars,0.2521
+java.util.LinkedList.node,94.9731

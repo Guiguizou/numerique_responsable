@@ -1,0 +1,12 @@
+java.lang.ref.Reference$ReferenceHandler.run;java.lang.ref.Reference.processPendingReferences;java.lang.ref.Reference.waitForReferencePendingList,18.1608
+jdk.internal.misc.InnocuousThread.run;java.lang.Thread.run;jdk.internal.ref.CleanerImpl.run;java.lang.ref.ReferenceQueue.remove;java.lang.Object.wait,0.0020
+HashMap2.main;java.lang.invoke.MethodHandleNatives.linkCallSite;java.lang.invoke.MethodHandleNatives.linkCallSiteImpl;java.lang.invoke.CallSite.makeSite;java.lang.invoke.BootstrapMethodInvoker.invoke;java.lang.invoke.Invokers$Holder.invokeExact_MT;java.lang.invoke.DelegatingMethodHandle$Holder.delegate;java.lang.invoke.DirectMethodHandle$Holder.invokeStatic;java.lang.invoke.StringConcatFactory.makeConcatWithConstants;java.lang.invoke.StringConcatFactory.generateMHInlineCopy;java.lang.invoke.MethodHandles.filterArgumentsWithCombiner;java.lang.invoke.MethodHandles.argumentsWithCombiner;java.lang.invoke.LambdaFormEditor.filterArgumentsForm;java.lang.invoke.LambdaFormEditor.makeArgumentCombinationForm;java.lang.invoke.ClassSpecializer$SpeciesData.getterFunction;java.util.ImmutableCollections$List12.get,0.0000
+HashMap2.main;java.util.HashMap$EntrySet.iterator;java.util.HashMap$EntryIterator.<init>;java.util.HashMap$HashIterator.<init>,0.0000
+HashMap2.main;java.util.HashMap.put;java.util.HashMap.hash,0.0000
+HashMap2.main;java.lang.invoke.Invokers$Holder.linkToTargetMethod;java.lang.invoke.LambdaForm$MH/0x00007f4b3800c000.invoke;java.lang.invoke.DirectMethodHandle$Holder.invokeStatic;java.lang.StringConcatHelper.newString,0.0000
+HashMap2.main;java.util.HashMap.remove,0.0000
+HashMap2.main;java.util.HashMap$EntryIterator.next;java.util.HashMap$EntryIterator.next;java.util.HashMap$HashIterator.nextNode,0.0000
+HashMap2.main;java.lang.invoke.Invokers$Holder.linkToTargetMethod;java.lang.invoke.LambdaForm$MH/0x00007f4b3800c000.invoke;java.lang.invoke.LambdaForm$MH/0x00007f4b38009c00.invoke;java.lang.invoke.DirectMethodHandle$Holder.invokeStatic;java.lang.StringConcatHelper.mix,0.0000
+HashMap2.main;java.util.HashMap.put;java.util.HashMap.putVal;java.util.HashMap.resize,0.0000
+HashMap2.main,0.0000
+HashMap2.main;java.lang.invoke.Invokers$Holder.linkToTargetMethod;java.lang.invoke.LambdaForm$MH/0x00007f4b3800c000.invoke;java.lang.invoke.LambdaForm$MH/0x00007f4b38009000.invoke;java.lang.invoke.DirectMethodHandle$Holder.invokeStatic;java.lang.StringConcatHelper.prepend;java.lang.StringConcatHelper.prepend;java.lang.Integer.getChars,0.0000

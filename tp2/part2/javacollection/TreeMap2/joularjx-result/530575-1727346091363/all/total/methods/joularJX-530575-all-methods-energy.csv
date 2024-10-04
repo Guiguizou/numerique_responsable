@@ -1,0 +1,13 @@
+java.util.TreeMap.getEntry,9.2918
+java.util.TreeMap.fixAfterInsertion,11.4727
+java.lang.Object.wait,0.0001
+java.util.TreeMap.successor,5.9041
+java.util.TreeMap.put,55.1341
+java.lang.ref.Reference.waitForReferencePendingList,0.0094
+java.lang.Integer.getChars,4.0827
+java.lang.invoke.MemberName.getInvocationType,0.4049
+java.util.TreeMap.fixAfterDeletion,7.6743
+java.lang.ref.ReferenceQueue.enqueue,0.0000
+TreeMap2.main,5.7155
+java.lang.StringConcatHelper.newString,0.4049
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.4049

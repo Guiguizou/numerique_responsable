@@ -1,0 +1,8 @@
+java.lang.ref.Reference.waitForReferencePendingList,0.0000
+java.util.regex.Matcher.reset,0.2488
+java.util.regex.Pattern$BmpCharProperty.match,0.9953
+java.util.Formatter.parse,0.9953
+java.io.FileOutputStream.writeBytes,16.6713
+java.io.OutputStreamWriter.write,1.4930
+java.io.PrintStream.print,0.2488
+sun.nio.cs.StreamEncoder.implFlushBuffer,0.7465

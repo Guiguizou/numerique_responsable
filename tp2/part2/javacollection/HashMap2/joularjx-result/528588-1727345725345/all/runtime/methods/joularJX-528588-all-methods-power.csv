@@ -1,0 +1,12 @@
+java.lang.ref.Reference.waitForReferencePendingList,18.1608
+java.lang.Object.wait,0.0020
+java.lang.StringConcatHelper.mix,0.0000
+java.util.ImmutableCollections$List12.get,0.0000
+java.lang.StringConcatHelper.newString,0.0000
+java.util.HashMap$HashIterator.nextNode,0.0000
+HashMap2.main,0.0000
+java.lang.Integer.getChars,0.0000
+java.util.HashMap$HashIterator.<init>,0.0000
+java.util.HashMap.remove,0.0000
+java.util.HashMap.resize,0.0000
+java.util.HashMap.hash,0.0000

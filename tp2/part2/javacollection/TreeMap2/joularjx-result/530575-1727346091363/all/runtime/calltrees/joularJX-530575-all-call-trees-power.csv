@@ -1,0 +1,5 @@
+java.lang.ref.Reference$ReferenceHandler.run;java.lang.ref.Reference.processPendingReferences;java.lang.ref.Reference.waitForReferencePendingList,0.0000
+TreeMap2.main,0.7466
+TreeMap2.main;java.util.TreeMap.remove;java.util.TreeMap.deleteEntry;java.util.TreeMap.fixAfterDeletion,1.8664
+TreeMap2.main;java.util.TreeMap$EntryIterator.next;java.util.TreeMap$EntryIterator.next;java.util.TreeMap$PrivateEntryIterator.nextEntry;java.util.TreeMap.successor,0.9332
+TreeMap2.main;java.util.TreeMap.remove;java.util.TreeMap.getEntry,2.2397

@@ -1,0 +1,6 @@
+java.lang.ref.Reference$ReferenceHandler.run;java.lang.ref.Reference.processPendingReferences;java.lang.ref.Reference.waitForReferencePendingList,0.0000
+RayCastingAlternative.main,0.7319
+RayCastingAlternative.main;java.io.PrintStream.println;java.io.PrintStream.newLine;java.io.OutputStreamWriter.flushBuffer;sun.nio.cs.StreamEncoder.flushBuffer;sun.nio.cs.StreamEncoder.implFlushBuffer;sun.nio.cs.StreamEncoder.writeBytes;java.io.PrintStream.write;java.io.BufferedOutputStream.flush;java.io.BufferedOutputStream.flushBuffer;java.io.FileOutputStream.write;java.io.FileOutputStream.writeBytes,2.4398
+RayCastingAlternative.main;java.io.PrintStream.println;java.io.PrintStream.writeln;java.io.OutputStreamWriter.flushBuffer;sun.nio.cs.StreamEncoder.flushBuffer;sun.nio.cs.StreamEncoder.implFlushBuffer,0.2440
+RayCastingAlternative.main;java.io.PrintStream.println;java.io.PrintStream.writeln;java.io.OutputStreamWriter.flushBuffer;sun.nio.cs.StreamEncoder.flushBuffer;sun.nio.cs.StreamEncoder.implFlushBuffer;sun.nio.cs.StreamEncoder.writeBytes;java.io.PrintStream.write;java.io.BufferedOutputStream.flush;java.io.BufferedOutputStream.flushBuffer;java.io.FileOutputStream.write;java.io.FileOutputStream.writeBytes,16.5908
+RayCastingAlternative.main;java.io.PrintStream.println;java.io.PrintStream.writeln,1.9519

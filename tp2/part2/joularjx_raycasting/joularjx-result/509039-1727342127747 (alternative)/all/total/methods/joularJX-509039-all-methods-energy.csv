@@ -1,0 +1,8 @@
+RayCastingAlternative.main,15.4585
+java.lang.Object.wait,0.0001
+java.lang.ref.Reference.waitForReferencePendingList,0.0068
+java.lang.Integer.toString,0.5535
+java.io.FileOutputStream.writeBytes,668.4084
+java.io.PrintStream.writeln,96.4599
+java.io.PrintStream.newLine,6.0765
+sun.nio.cs.StreamEncoder.implFlushBuffer,12.9960

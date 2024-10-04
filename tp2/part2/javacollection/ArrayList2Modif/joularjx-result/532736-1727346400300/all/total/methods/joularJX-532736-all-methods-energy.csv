@@ -1,0 +1,10 @@
+ArrayList2Modif.insertElements,1.6278
+ArrayList2Modif.removeElements,2786.6087
+java.util.ArrayList.remove,57.7881
+java.lang.StringConcatHelper.mix,0.8139
+java.util.Arrays.copyOf,0.8139
+sun.invoke.util.Wrapper.findPrimitiveType,0.8139
+java.lang.ref.Reference.waitForReferencePendingList,0.0179
+java.lang.StringConcatHelper.newArray,0.8139
+java.lang.System.arraycopy,4.8835
+java.util.ArrayList$Itr.next,0.8139

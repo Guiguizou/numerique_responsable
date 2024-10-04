@@ -1,0 +1,5 @@
+java.lang.ref.Reference$ReferenceHandler.run;java.lang.ref.Reference.processPendingReferences;java.lang.ref.Reference.waitForReferencePendingList,16.3227
+WeakHashMap2.main;java.lang.invoke.Invokers$Holder.linkToTargetMethod;java.lang.invoke.LambdaForm$MH/0x00007f3c3000c000.invoke;java.lang.invoke.LambdaForm$MH/0x00007f3c30009000.invoke;java.lang.invoke.DirectMethodHandle$Holder.invokeStatic;java.lang.StringConcatHelper.prepend;java.lang.StringConcatHelper.prepend;java.lang.Integer.getChars,0.0000
+WeakHashMap2.main,0.0000
+WeakHashMap2.main;java.util.WeakHashMap$HashIterator.hasNext,0.0000
+WeakHashMap2.main;java.util.WeakHashMap.remove,0.0000

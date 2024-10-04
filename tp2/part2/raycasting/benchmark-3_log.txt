@@ -1,0 +1,18 @@
+Log du benchmark
+
+Démarrage de ./ray_casting à 10:28:37
+Fin de ./ray_casting à 10:29:07
+Durée totale : 0:00:30.000613
+
+Démarrage de java RayCasting à 10:29:17
+Fin de java RayCasting à 10:29:47
+Durée totale : 0:00:30.018228
+
+Démarrage de java RayCastingAlternative à 10:29:57
+Fin de java RayCastingAlternative à 10:30:27
+Durée totale : 0:00:30.003334
+
+Démarrage de python ray_casting.py à 10:30:37
+Fin de python ray_casting.py à 10:31:07
+Durée totale : 0:00:30.018644
+

@@ -1,0 +1,11 @@
+LinkedHashMap2Modif.accessElements,13.2450
+java.util.HashMap.putVal,13.1093
+java.lang.Object.wait,0.0001
+LinkedHashMap2Modif.removeElements,5.3523
+java.lang.StringConcatHelper.mix,1.1918
+java.lang.ref.Reference.waitForReferencePendingList,0.0186
+java.lang.Integer.getChars,17.2805
+jdk.internal.org.objectweb.asm.Frame.pop,0.5959
+java.lang.ref.Reference.getAndClearReferencePendingList,0.0002
+java.util.HashMap.hash,7.1506
+java.util.HashMap.resize,13.7052

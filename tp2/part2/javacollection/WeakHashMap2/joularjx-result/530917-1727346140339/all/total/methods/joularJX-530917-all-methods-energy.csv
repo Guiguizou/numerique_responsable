@@ -1,0 +1,17 @@
+java.util.WeakHashMap.newTable,1.7220
+java.lang.ref.Reference.processPendingReferences,0.2344
+java.lang.invoke.InvokerBytecodeGenerator.emitImplicitConversion,0.5740
+WeakHashMap2.main,18.3682
+java.lang.ref.Reference.waitForReferencePendingList,24.8777
+java.util.WeakHashMap.transfer,9.1841
+java.lang.Integer.getChars,7.4621
+java.lang.ref.ReferenceQueue.enqueue,0.5860
+java.util.WeakHashMap.expungeStaleEntries,4.5921
+java.util.WeakHashMap.put,0.5740
+java.lang.StringConcatHelper.newString,0.5740
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.5740
+java.lang.Object.notifyAll,1.9923
+java.util.WeakHashMap.remove,0.0000
+java.lang.ref.ReferenceQueue.poll,3.4440
+java.util.WeakHashMap$HashIterator.hasNext,0.0000
+jdk.internal.ref.PhantomCleanable.remove,0.0002

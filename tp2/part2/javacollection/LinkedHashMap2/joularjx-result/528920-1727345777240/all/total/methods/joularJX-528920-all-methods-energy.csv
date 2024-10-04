@@ -1,0 +1,14 @@
+java.lang.Object.wait,0.0002
+java.lang.Integer.stringSize,0.6302
+java.lang.ref.Reference.waitForReferencePendingList,0.0141
+java.lang.Integer.getChars,11.3433
+java.lang.ref.Reference.getAndClearReferencePendingList,0.0001
+java.lang.invoke.MethodHandleNatives.resolve,0.6302
+java.util.HashMap.hash,7.5622
+java.util.HashMap.putVal,19.5357
+java.lang.StringConcatHelper.mix,0.6302
+LinkedHashMap2.main,17.5659
+java.lang.Integer.valueOf,0.6302
+java.util.HashMap.removeNode,0.6302
+java.util.LinkedHashMap$LinkedHashIterator.nextNode,0.6302
+java.util.HashMap.resize,13.2339

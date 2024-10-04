@@ -1,0 +1,11 @@
+HashMap2Modif.removeElements,0.0000
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.0000
+HashMap2Modif.insertElements,0.0000
+java.lang.ref.Reference.waitForReferencePendingList,18.5953
+java.util.HashMap$HashIterator.nextNode,0.0000
+java.lang.Integer.getChars,0.0000
+java.lang.invoke.LambdaForm$MH/0x00007f3a7400c000.invoke,0.0000
+java.lang.invoke.MethodHandleNatives.resolve,0.0000
+java.util.HashMap$HashIterator.<init>,0.0000
+java.util.HashMap.resize,0.0000
+java.util.HashMap.hash,0.0000

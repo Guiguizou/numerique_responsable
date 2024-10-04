@@ -1,0 +1,8 @@
+java.util.ArrayList.remove,52.1005
+java.util.Arrays.copyOf,0.7443
+java.lang.ref.Reference.waitForReferencePendingList,0.0218
+java.util.ArrayList$Itr.checkForComodification,0.7443
+java.lang.Integer.getChars,2.2329
+ArrayList2.main,1603.0834
+jdk.internal.org.objectweb.asm.Frame.getAbstractTypeFromDescriptor,0.7443
+java.lang.System.arraycopy,4.4658
